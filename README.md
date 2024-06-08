@@ -1,7 +1,7 @@
 ![image](https://github.com/hi-lufz1/Tugas10_181_LatifUF/assets/114199414/c2e0accd-8202-44d9-9d40-9c910b5baf6d)
 
 ![image](https://github.com/hi-lufz1/Tugas10_181_LatifUF/assets/114199414/d1becdd5-17de-471a-a40c-48fdf6a604b4)
-![image](https://github.com/hi-lufz1/Tugas10_181_LatifUF/assets/114199414/d1becdd5-17de-471a-a40c-48fdf6a604b4)
+
 
 
 # Getting Started with Create React App
